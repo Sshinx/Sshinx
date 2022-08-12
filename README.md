@@ -9,9 +9,7 @@ Beginner French Developer...
 
 
 ```md
-  bidouffe@bidouffe:~|⇒ Nano-Bot French Discord-Bot 🎓           
-                     │     └──⇒ 🌹 - [ "https://bit.ly/3EwHNmk" ]
-                     │⇒ URSS Discord-Server
+  bidouffe@bidouffe:~│⇒ URSS Discord-Server
                      │     └──⇒ 🌹 - [ "https://discord.gg/pGhNz9RCKX" ]
                      └⇒ Github [Here :)]
                            └──⇒ 🌹 - [ "https://github.com/Bidouffe" ]
