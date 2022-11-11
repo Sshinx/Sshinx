@@ -9,7 +9,7 @@ Beginner French Developer...
 
 
 ```md
-  Iris@Sshinx:~│⇒ COPINK'S Discord-Server
+  Iris@Sshinx:~│⇒ CoPinK'S Discord-Server
                │     └──⇒ 🌹 - [ "https://discord.gg/copinks" ]
                └⇒ Github [Here :)]
                      └──⇒ 🌹 - [ "https://github.com/Sshinx" ]
