@@ -1,16 +1,31 @@
-### Hi there 👋
+-----
+### Hi, I'm Sshinx 🎓
 
-<!--
-**Sshinx/Sshinx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+```
+self-taught Developer...
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+```md
+  Iris@Sshinx:~│⇒ Discord-Server
+               │     └──⇒ 🌹 - [ "Soon" ]
+               └⇒ Github [Here :)]
+                     └──⇒ 🌹 - [ "https://github.com/Sshinx" ]
+```
+-----
+<p align="center">
+<a href="https://github.com/Sshinx">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sshinx&show_icons=true&theme=react&include_all_commits=true&locale=fr"/>
+</a>
+</p>
+
+-----
+
+<p align="center">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Sshinx/Sshinx">
+  <img alt="Followers" src="https://img.shields.io/github/followers/Sshinx?style=social">
+  <img alt="Total Stars" src="https://img.shields.io/github/stars/Sshinx?style=social">
+  <img src="https://komarev.com/ghpvc/?username=Sshinx&color=blue">
+</p>
