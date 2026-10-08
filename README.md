@@ -4,7 +4,7 @@
   <img alt="Sshinx's GitHub profile" src="dark_mode.svg" />
 </picture>
 
-<img align="right" width="110" src="https://commons.wikimedia.org/wiki/Special:FilePath/Logo_CentraleSupélec.svg" alt="CentraleSupélec">
+<img align="right" width="110" src="Logo_CentraleSupélec.svg" alt="CentraleSupélec">
 
 ## Salut, moi c'est Sshinx 👋
 
